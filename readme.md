@@ -99,16 +99,13 @@ Skills: Real-time data handling, IoT, machine learning basics, blockchain.
 ## 🔧 Getting Started
 
 Prerequisites
-To run the projects, you'll need:
+add all folders and sub folders
 
-Basic knowledge of HTML, CSS, and JavaScript.
-For backend projects: PHP and MySQL installed.
-For advanced projects: Familiarity with APIs, JavaScript frameworks, and PHP basics.
-Cloning the Repository
-To clone this repository locally, use:
+```
+mkdir -p FullStackLab/{Phase1_Foundational/{ToDoList,Calculator,InteractiveQuiz,WeatherApp,ImageSlider,SimpleGame,TimerStopwatch,AnimatedBanner,FormValidation,RandomQuoteGenerator,CurrencyConverter,CountdownTimer,SimpleDrawingApp,RecipeFinder,BMICalculator,TypingSpeedTest,PasswordGenerator,FlashcardApplication,TodoListWithLocalStorage,NewsletterSignupForm},Phase2_Interactive/{ChatApplication,SocialMediaDashboard,ECommerceWebsite,WeatherForecastingDashboard,TaskManager,InteractiveMap,BlogPlatform,MusicPlayer,PhotoEditingTool,DataVisualizationDashboard,ExpenseTracker,RSSFeedReader,MovieDatabase,OnlineCodeEditor,MarkdownEditor,PomodoroTimer,QuizGameShow,PortfolioWebsite,VirtualKeyboard,CryptocurrencyTracker},Phase3_CRUD/{TaskManager,BlogPlatform,ExpenseTracker,MovieDatabase},Phase4_FullStack/{ChatApplication,ECommerceWebsite,DataVizDashboard,PhotoEditingTool},Phase5_Advanced/{VideoStreamingService,RealTimeCollaboration,StockTradingPlatform,SocialNetworkPlatform,AugmentedRealityApplication,VoiceRecognitionSystem,MachineLearningModelDeployment,CMS,IoTDashboard,BlockchainApp}}/{css,js} && touch -f FullStackLab/{Phase1_Foundational/{ToDoList,Calculator,InteractiveQuiz,WeatherApp,ImageSlider,SimpleGame,TimerStopwatch,AnimatedBanner,FormValidation,RandomQuoteGenerator,CurrencyConverter,CountdownTimer,SimpleDrawingApp,RecipeFinder,BMICalculator,TypingSpeedTest,PasswordGenerator,FlashcardApplication,TodoListWithLocalStorage,NewsletterSignupForm},Phase2_Interactive/{ChatApplication,SocialMediaDashboard,ECommerceWebsite,WeatherForecastingDashboard,TaskManager,InteractiveMap,BlogPlatform,MusicPlayer,PhotoEditingTool,DataVisualizationDashboard,ExpenseTracker,RSSFeedReader,MovieDatabase,OnlineCodeEditor,MarkdownEditor,PomodoroTimer,QuizGameShow,PortfolioWebsite,VirtualKeyboard,CryptocurrencyTracker},Phase3_CRUD/{TaskManager,BlogPlatform,ExpenseTracker,MovieDatabase},Phase4_FullStack/{ChatApplication,ECommerceWebsite,DataVizDashboard,PhotoEditingTool},Phase5_Advanced/{VideoStreamingService,RealTimeCollaboration,StockTradingPlatform,SocialNetworkPlatform,AugmentedRealityApplication,VoiceRecognitionSystem,MachineLearningModelDeployment,CMS,IoTDashboard,BlockchainApp}}/css/style.css && touch -f FullStackLab/{Phase1_Foundational/{ToDoList,Calculator,InteractiveQuiz,WeatherApp,ImageSlider,SimpleGame,TimerStopwatch,AnimatedBanner,FormValidation,RandomQuoteGenerator,CurrencyConverter,CountdownTimer,SimpleDrawingApp,RecipeFinder,BMICalculator,TypingSpeedTest,PasswordGenerator,FlashcardApplication,TodoListWithLocalStorage,NewsletterSignupForm},Phase2_Interactive/{ChatApplication,SocialMediaDashboard,ECommerceWebsite,WeatherForecastingDashboard,TaskManager,InteractiveMap,BlogPlatform,MusicPlayer,PhotoEditingTool,DataVisualizationDashboard,ExpenseTracker,RSSFeedReader,MovieDatabase,OnlineCodeEditor,MarkdownEditor,PomodoroTimer,QuizGameShow,PortfolioWebsite,VirtualKeyboard,CryptocurrencyTracker},Phase3_CRUD/{TaskManager,BlogPlatform,ExpenseTracker,MovieDatabase},Phase4_FullStack/{ChatApplication,ECommerceWebsite,DataVizDashboard,PhotoEditingTool},Phase5_Advanced/{VideoStreamingService,RealTimeCollaboration,StockTradingPlatform,SocialNetworkPlatform,AugmentedRealityApplication,VoiceRecognitionSystem,MachineLearningModelDeployment,CMS,IoTDashboard,BlockchainApp}}/js/script.js
 
-bash
-Copy code
+```
+
 git clone https://github.com/yourusername/FullStackLab.git
 Navigate to each phase and project folder to explore the specific instructions in each README.md.
 
