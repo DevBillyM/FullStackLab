@@ -1,0 +1,17 @@
+#taskInput {
+    border-radius: 0;
+}
+
+#taskList {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.completed-task {
+    text-decoration: line-through;
+    color: grey;
+}
+
+#emptyMessage {
+    display: none;
+}
