@@ -1,0 +1,27 @@
+.calculator {
+    max-width: 100%;
+}
+
+.display {
+    font-size: 1.5rem;
+    height: 3rem;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px; /* Space between rows */
+}
+
+button {
+    font-size: 1.2rem;
+    height: 3rem;
+    width: calc(25% - 4px); /* Set width to 25% minus margin space */
+    margin: 1px; /* Uniform 1px margin around all buttons */
+}
+
+/* Highlight active operator */
+.operator-btn.active {
+    background-color: #ffc107;
+    color: white;
+}
