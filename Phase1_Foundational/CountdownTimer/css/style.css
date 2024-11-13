@@ -1,0 +1,12 @@
+.display {
+    font-size: 2rem;
+}
+
+button {
+    width: 30%; /* Control button width for consistent layout */
+}
+
+#message {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
