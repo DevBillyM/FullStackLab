@@ -1,0 +1,11 @@
+#quizResult {
+    font-weight: bold;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
