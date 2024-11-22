@@ -1,0 +1,10 @@
+/* Add some spacing to the form fields */
+form .form-control {
+    margin-bottom: 10px;
+}
+
+/* Styling for invalid inputs */
+form .form-control.is-invalid {
+    border-color: #dc3545;
+    background-color: #f8d7da;
+}
