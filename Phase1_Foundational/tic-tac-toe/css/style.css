@@ -1,0 +1,26 @@
+.cell {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    background-color: #f8f9fa;
+}
+
+.cell:hover {
+    background-color: #e9ecef;
+}
+
+.cell.taken {
+    cursor: not-allowed;
+    background-color: #dee2e6;
+}
+
+#gameBoard {
+    justify-content: center;
+    margin-bottom: 15px;
+}
