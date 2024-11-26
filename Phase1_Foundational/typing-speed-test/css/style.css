@@ -1,0 +1,17 @@
+#displayPassage {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+#typingArea {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
