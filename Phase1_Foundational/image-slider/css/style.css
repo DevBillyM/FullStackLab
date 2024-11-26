@@ -1,0 +1,7 @@
+#sliderImage {
+    object-fit: cover;
+}
+
+button {
+    width: 30%; /* Ensure consistent button size */
+}
